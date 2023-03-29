@@ -1,0 +1,48 @@
+{
+    "head": {
+        "store_mapping": [
+            {
+                "fulfillment_node_id": "PAL54",
+                "store_id": "PAL54"
+            }
+        ],
+        "mode": "atp"
+    },
+    "items": [
+        {
+            "fulfillment_node_id": "PAL54",
+            "product_id": "WKS2336 -UNT-XXS",
+            "quantity": 1
+        },
+        {
+            "fulfillment_node_id": "PAL54",
+            "product_id": "WKS2336 -UNT-XS",
+            "quantity": 1
+        },
+        {
+            "fulfillment_node_id": "PAL54",
+            "product_id": "WKS2336 -UNT-S",
+            "quantity": 1
+        },
+        {
+            "fulfillment_node_id": "PAL54",
+            "product_id": "WKS2336 -UNT-M",
+            "quantity": 1
+        },
+        {
+            "fulfillment_node_id": "PAL54",
+            "product_id": "WKS2336 -UNT-L",
+            "quantity": 1
+        },
+        {
+            "fulfillment_node_id": "PAL54",
+            "product_id": "WKS2336 -UNT-XL",
+            "quantity": 1
+        },
+        {
+            "fulfillment_node_id": "PAL54",
+            "product_id": "WKS2336 -UNT-XXL",
+            "quantity": 1
+        }
+    ]
+}

@@ -1,0 +1,414 @@
+{
+    "brand": "Faherty",
+    "caption": "Soleil Hoodie - Sunset",
+    "categories": [
+        {
+            "is_main": false,
+            "path": "All",
+            "path_separator": " > "
+        },
+        {
+            "is_main": true,
+            "path": "All > All",
+            "path_separator": " > "
+        },
+        {
+            "is_main": false,
+            "path": "All > Women's",
+            "path_separator": " > "
+        },
+        {
+            "is_main": false,
+            "path": "All > New Jersey Tax - All Product Ex. Blankets",
+            "path_separator": " > "
+        },
+        {
+            "is_main": false,
+            "path": "All > Faherty Brand Merchandise",
+            "path_separator": " > "
+        },
+        {
+            "is_main": false,
+            "path": "All > All products",
+            "path_separator": " > "
+        },
+        {
+            "is_main": false,
+            "path": "All > Live Products - BFCM",
+            "path_separator": " > "
+        },
+        {
+            "is_main": false,
+            "path": "All > All Women's Tops",
+            "path_separator": " > "
+        },
+        {
+            "is_main": false,
+            "path": "All > All Products (exclude GC and 3rd Party)",
+            "path_separator": " > "
+        },
+        {
+            "is_main": false,
+            "path": "All > Women's Beach Shop",
+            "path_separator": " > "
+        },
+        {
+            "is_main": false,
+            "path": "All > Resort Shop",
+            "path_separator": " > "
+        },
+        {
+            "is_main": false,
+            "path": "All > Men's Packing List: Beach Mode",
+            "path_separator": " > "
+        }
+    ],
+    "description": "Soleil Hoodie",
+    "effective_price": {
+        "amount": 178,
+        "currency": "USD"
+    },
+    "extended_attributes": [
+        {
+            "key": "fulfillment_service",
+            "value": "manual"
+        },
+        {
+            "key": "inventory_item_id",
+            "value": "42326738600005"
+        },
+        {
+            "key": "inventory_management",
+            "value": "shopify"
+        },
+        {
+            "key": "inventory_policy",
+            "value": "deny"
+        },
+        {
+            "key": "product_created_at",
+            "value": "2022-08-03T16:04:49-04:00"
+        },
+        {
+            "key": "product_handle",
+            "value": "soleil-hoodie-sunset-1"
+        },
+        {
+            "key": "product_published_scope",
+            "value": "web"
+        },
+        {
+            "key": "product_updated_at",
+            "value": "2022-08-03T17:34:32-04:00"
+        },
+        {
+            "key": "shopify_variant_id",
+            "value": "40231129186373"
+        },
+        {
+            "key": "tags",
+            "value": "gender:Women, S/23, size-guide:size-guide-women, women"
+        },
+        {
+            "key": "variant_created_at",
+            "value": "2022-08-03T16:04:50-04:00"
+        },
+        {
+            "key": "variant_updated_at",
+            "value": "2022-08-03T16:04:50-04:00"
+        }
+    ],
+    "external_identifiers": [
+        {
+            "type": "sku",
+            "value": "WKS2336 -UNT-XL"
+        },
+        {
+            "type": "shopify_inventory_item_id",
+            "value": "42326738600005"
+        },
+        {
+            "type": "upc",
+            "value": "194622962218"
+        },
+        {
+            "type": "isbn",
+            "value": "194622962218"
+        },
+        {
+            "type": "ean13",
+            "value": "194622962218"
+        }
+    ],
+    "images": [
+        {
+            "aspect_ratio": 1.5297297,
+            "dominant_color": "#766E7E",
+            "height": 370,
+            "tags": [
+                "newstore:main"
+            ],
+            "title": "",
+            "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1631554666/p/faherty/6e92aa66747d37bb56c232af5eba9c9c.png",
+            "width": 566
+        }
+    ],
+    "inventory_tracked": true,
+    "is_available": true,
+    "is_preorder": false,
+    "keywords": [
+        "gender:Women",
+        "S/23",
+        "size-guide:size-guide-women",
+        "women"
+    ],
+    "product_id": "WKS2336 -UNT-XL",
+    "serialized_inventory": false,
+    "shipping_weight": {
+        "unit": "lb",
+        "value": 1
+    },
+    "short_description": "Soleil Hoodie - Sunset",
+    "title": "Soleil Hoodie - Sunset",
+    "variable_pricing": false,
+    "variations": [
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336 -UNT-XXS",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "XXS"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336-UNT-XXS",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "XXS"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336 -UNT-XS",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "XS"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336-UNT-XS",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "XS"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336-UNT-S",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "S"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336 -UNT-S",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "S"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336 -UNT-M",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "M"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336-UNT-M",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "M"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336-UNT-L",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "L"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336 -UNT-L",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "L"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336 -UNT-XL",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "XL"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": true,
+            "product_id": "WKS2336-UNT-XL",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "XL"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": false,
+            "product_id": "WKS2336 -UNT-XXL",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "XXL"
+            }
+        },
+        {
+            "effective_price": {
+                "amount": 178,
+                "currency": "USD"
+            },
+            "is_available": false,
+            "product_id": "WKS2336-UNT-XXL",
+            "variation_color": {
+                "value": "Sunset"
+            },
+            "variation_size": {
+                "gender": "",
+                "system": "",
+                "type": "",
+                "value": "XXL"
+            }
+        }
+    ]
+}

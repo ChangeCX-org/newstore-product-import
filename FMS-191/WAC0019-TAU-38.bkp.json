@@ -1,0 +1,310 @@
+{
+  "brand": "Birkenstock",
+  "caption": "Birkenstock Arizona (soft footbed) - Taupe",
+  "categories": [
+      {
+          "is_main": false,
+          "path": "All",
+          "path_separator": " > "
+      },
+      {
+          "is_main": true,
+          "path": "All > All",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > Women's",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > New Jersey Tax - All Product Ex. Blankets",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > All products",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > Live Products - BFCM",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > SPO-filter-cee5b992b0d8b661e96cfd7c427e3b13",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > Women's Accessories",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > Brands We Love",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > Beach Accessories",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > Women's Unisex Accessories",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > MM Test Collection",
+          "path_separator": " > "
+      },
+      {
+          "is_main": false,
+          "path": "All > BFCM Women's",
+          "path_separator": " > "
+      }
+  ],
+  "description": "Birkenstock Arizona (soft footbed)",
+  "effective_price": {
+      "amount": 135,
+      "currency": "USD"
+  },
+  "extended_attributes": [
+      {
+          "key": "fulfillment_service",
+          "value": "manual"
+      },
+      {
+          "key": "inventory_item_id",
+          "value": "33509148360773"
+      },
+      {
+          "key": "inventory_management",
+          "value": "shopify"
+      },
+      {
+          "key": "inventory_policy",
+          "value": "deny"
+      },
+      {
+          "key": "product_created_at",
+          "value": "2020-11-17T17:45:57-05:00"
+      },
+      {
+          "key": "product_handle",
+          "value": "birkenstock-arizona-soft-footbed-taupe"
+      },
+      {
+          "key": "product_published_scope",
+          "value": "global"
+      },
+      {
+          "key": "product_updated_at",
+          "value": "2023-03-06T12:15:36-05:00"
+      },
+      {
+          "key": "shopify_variant_id",
+          "value": "31962505412677"
+      },
+      {
+          "key": "tags",
+          "value": "Accessories, age:Adult, badge:Brands We Love, buy-it-now, CORE (ALL YEARS), gender:Women, marbook23, season:Core, special collection:Brands We Love, spo-default, spo-disabled, Third Party, Women's Accessories"
+      },
+      {
+          "key": "variant_created_at",
+          "value": "2020-11-17T17:45:57-05:00"
+      },
+      {
+          "key": "variant_updated_at",
+          "value": "2022-09-14T11:32:56-04:00"
+      }
+  ],
+  "external_identifiers": [
+      {
+          "type": "sku",
+          "value": "WAC0019-TAU-38"
+      },
+      {
+          "type": "shopify_inventory_item_id",
+          "value": "33509148360773"
+      },
+      {
+          "type": "upc",
+          "value": "809410342690"
+      },
+      {
+          "type": "isbn",
+          "value": "809410342690"
+      },
+      {
+          "type": "ean13",
+          "value": "809410342690"
+      }
+  ],
+  "images": [
+      {
+          "aspect_ratio": 1.5297297,
+          "dominant_color": "#766E7E",
+          "height": 370,
+          "tags": [
+              "newstore:main"
+          ],
+          "title": "",
+          "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1631554666/p/faherty/6e92aa66747d37bb56c232af5eba9c9c.png",
+          "width": 566
+      }
+  ],
+  "inventory_tracked": true,
+  "is_available": true,
+  "is_preorder": false,
+  "keywords": [
+      "Accessories",
+      "age:Adult",
+      "badge:Brands We Love",
+      "buy-it-now",
+      "CORE (ALL YEARS)",
+      "gender:Women",
+      "marbook23",
+      "season:Core",
+      "special collection:Brands We Love",
+      "spo-default",
+      "spo-disabled",
+      "Third Party",
+      "Women's Accessories"
+  ],
+  "product_id": "WAC0019-TAU-38",
+  "serialized_inventory": false,
+  "shipping_weight": {
+      "unit": "lb",
+      "value": 1
+  },
+  "short_description": "Birkenstock Arizona (soft footbed) - Taupe",
+  "show_in_listing": false,
+  "title": "Birkenstock Arizona (soft footbed) - Taupe",
+  "variable_pricing": false,
+  "variations": [
+      {
+          "effective_price": {
+              "amount": 135,
+              "currency": "USD"
+          },
+          "is_available": false,
+          "product_id": "WAC0019-TAU-35",
+          "variation_color": {
+              "value": "Taupe"
+          },
+          "variation_size": {
+              "gender": "",
+              "system": "",
+              "type": "",
+              "value": "35"
+          }
+      },
+      {
+          "effective_price": {
+              "amount": 135,
+              "currency": "USD"
+          },
+          "is_available": false,
+          "product_id": "WAC0019-TAU-36",
+          "variation_color": {
+              "value": "Taupe"
+          },
+          "variation_size": {
+              "gender": "",
+              "system": "",
+              "type": "",
+              "value": "36"
+          }
+      },
+      {
+          "effective_price": {
+              "amount": 135,
+              "currency": "USD"
+          },
+          "is_available": true,
+          "product_id": "WAC0019-TAU-37",
+          "variation_color": {
+              "value": "Taupe"
+          },
+          "variation_size": {
+              "gender": "",
+              "system": "",
+              "type": "",
+              "value": "37"
+          }
+      },
+      {
+          "effective_price": {
+              "amount": 135,
+              "currency": "USD"
+          },
+          "is_available": true,
+          "product_id": "WAC0019-TAU-38",
+          "variation_color": {
+              "value": "Taupe"
+          },
+          "variation_size": {
+              "gender": "",
+              "system": "",
+              "type": "",
+              "value": "38"
+          }
+      },
+      {
+          "effective_price": {
+              "amount": 135,
+              "currency": "USD"
+          },
+          "is_available": false,
+          "product_id": "WAC0019-TAU-39",
+          "variation_color": {
+              "value": "Taupe"
+          },
+          "variation_size": {
+              "gender": "",
+              "system": "",
+              "type": "",
+              "value": "39"
+          }
+      },
+      {
+          "effective_price": {
+              "amount": 135,
+              "currency": "USD"
+          },
+          "is_available": true,
+          "product_id": "WAC0019-TAU-40",
+          "variation_color": {
+              "value": "Taupe"
+          },
+          "variation_size": {
+              "gender": "",
+              "system": "",
+              "type": "",
+              "value": "40"
+          }
+      },
+      {
+          "effective_price": {
+              "amount": 135,
+              "currency": "USD"
+          },
+          "is_available": false,
+          "product_id": "WAC0019-TAU-41",
+          "variation_color": {
+              "value": "Taupe"
+          },
+          "variation_size": {
+              "gender": "",
+              "system": "",
+              "type": "",
+              "value": "41"
+          }
+      }
+  ]
+}

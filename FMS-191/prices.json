@@ -1,0 +1,13 @@
+{
+  "head": {
+    "pricebook": "default",
+    "shop": "storefront-catalog-en",
+    "currency": "US"
+  },
+  "items": [
+    {
+      "product_id": "WAC0019-TAU-38",
+      "value": 135
+    }
+  ]
+}

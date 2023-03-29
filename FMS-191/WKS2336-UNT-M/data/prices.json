@@ -1,0 +1,37 @@
+{
+    "head": {
+        "pricebook": "default",
+        "shop": "storefront-catalog-en",
+        "currency": "USD"
+    },
+    "items": [
+        {
+            "product_id": "WKS2336 -UNT-XXS",
+            "value": 178.00
+        },
+        {
+            "product_id": "WKS2336 -UNT-XS",
+            "value": 178.00
+        },
+        {
+            "product_id": "WKS2336 -UNT-S",
+            "value": 178.00
+        },
+        {
+            "product_id": "WKS2336 -UNT-M",
+            "value": 178.00
+        },
+        {
+            "product_id": "WKS2336 -UNT-L",
+            "value": 178.00
+        },
+        {
+            "product_id": "WKS2336 -UNT-XL",
+            "value": 178.00
+        },
+        {
+            "product_id": "WKS2336 -UNT-XXL",
+            "value": 178.00
+        }
+    ]
+}

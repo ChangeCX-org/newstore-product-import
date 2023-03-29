@@ -1,0 +1,1627 @@
+{
+    "head": {
+        "locale": "en-US",
+        "shop": "storefront-catalog-en",
+        "is_master": true,
+        "searchable_attributes": [
+            {
+                "name": "sku",
+                "path": "$.external_identifiers[?(@.type == 'sku')].value",
+                "weight": 1
+            },
+            {
+                "name": "product_id",
+                "path": "$.product_id",
+                "weight": 2
+            }
+        ],
+        "filterable_attributes": [
+            {
+                "name": "Color",
+                "path": "$.variation_color_value"
+            },
+            {
+                "name": "Size",
+                "path": "$.variation_size_value"
+            }
+        ]
+    },
+    "items": [
+        {
+            "brand": "Faherty",
+            "is_searchable": false,
+            "is_published": false,
+            "show_in_listing": false,
+            "online_to": "2023-04-01T07:00:00Z",
+            "product_id": "WKS2336 -UNT-L",
+            "variant_group_id": "6796253397061",
+            "external_identifiers": [
+                {
+                    "type": "sku",
+                    "value": "WKS2336 -UNT-L"
+                },
+                {
+                    "type": "shopify_inventory_item_id",
+                    "value": "42326738567237"
+                },
+                {
+                    "type": "upc",
+                    "value": ""
+                },
+                {
+                    "type": "isbn",
+                    "value": "194622962225"
+                },
+                {
+                    "type": "ean13",
+                    "value": "194622962225"
+                }
+            ],
+            "title": "Soleil Hoodie - Sunset",
+            "caption": "Soleil Hoodie - Sunset",
+            "description": "Sunny days are ahead in our ultimate Faherty hoodie. Made from a super-soft and lightweight French terry, this where everywhere layer is pieced together in a sun, sea, and sand motif that channels all the feel-good vibes.\n\n\nFit: Relaxed fit\n\nDetail: Long sleeve hoodie with a fun in-the-sun inpired Pieced Design\n\nMaterial: 100% Cotton\n\nModel: Monika is 5’9 wearing size Small \n\n\nCare: Turn inside out. Machine Wash cold with like colors. Gentle cycle. Do not bleach. Tumble dry low. Remove promptly. Cool iron when needed.\nWKS2336-UNT\n",
+            "shipping_weight_unit": "lb",
+            "shipping_weight_value": 1.0,
+            "shipping_dimension_length": 0.0,
+            "shipping_dimension_width": 0.0,
+            "shipping_dimension_height": 0.0,
+            "shipping_dimension_unit": "cm",
+            "images": [
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/68d5fac7c9c0c2de47e47a98976ce7f8.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E1DCD8",
+                    "is_main": true
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/072bf91402c8198443357b00649eef7d.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3E0DF"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/208239c221e940b8452ee2a0169affb5.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3D7D2"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/98d4ac5f8786bf8d12d3a73ac407900c.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#DEDDDD"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/cde71fa8d621f6b3b2278515e473239e.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E5CEC5"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/d408a2880545c2d02dbe5313f8662726.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E0DDDB"
+                }
+            ],
+            "variation_color_value": "Sunset",
+            "variation_size_value": "L",
+            "material": "",
+            "google_category": "none",
+            "categories": [
+                {
+                    "path": "All"
+                },
+                {
+                    "is_main": true,
+                    "path": "All > All"
+                },
+                {
+                    "path": "All > Women's Bestsellers"
+                },
+                {
+                    "path": "All > Women's New Arrivals"
+                },
+                {
+                    "path": "All > Women's"
+                },
+                {
+                    "path": "All > New Jersey Tax - All Product Ex. Blankets"
+                },
+                {
+                    "path": "All > Faherty Brand Merchandise"
+                },
+                {
+                    "path": "All > Women's Hoodies and Sweatshirts"
+                },
+                {
+                    "path": "All > All products"
+                },
+                {
+                    "path": "All > Live Products - BFCM"
+                },
+                {
+                    "path": "All > Women's Packing List"
+                },
+                {
+                    "path": "All > Women's Spring Layers"
+                },
+                {
+                    "path": "All > All Products (exclude GC and 3rd Party)"
+                },
+                {
+                    "path": "All > Women's Hoodies"
+                },
+                {
+                    "path": "All > Women's Beach Shop"
+                },
+                {
+                    "path": "All > Loungewear"
+                },
+                {
+                    "path": "All > Women's Travel Edit"
+                },
+                {
+                    "path": "All > Women's Layers"
+                },
+                {
+                    "path": "All > Women's Loungewear"
+                },
+                {
+                    "path": "All > Women's Influencer Favorites"
+                },
+                {
+                    "path": "All > Gifts for Her"
+                }
+            ],
+            "extended_attributes": [
+                {
+                    "name": "fulfillment_service",
+                    "value": "manual"
+                },
+                {
+                    "name": "inventory_item_id",
+                    "value": "42326738567237"
+                },
+                {
+                    "name": "inventory_management",
+                    "value": "shopify"
+                },
+                {
+                    "name": "inventory_policy",
+                    "value": "deny"
+                },
+                {
+                    "name": "product_created_at",
+                    "value": "2022-08-03T16:04:49-04:00"
+                },
+                {
+                    "name": "product_handle",
+                    "value": "soleil-hoodie-sunset-1"
+                },
+                {
+                    "name": "product_published_at",
+                    "value": "2023-02-01T15:47:20-05:00"
+                },
+                {
+                    "name": "product_published_scope",
+                    "value": "global"
+                },
+                {
+                    "name": "product_updated_at",
+                    "value": "2023-03-29T23:30:26-04:00"
+                },
+                {
+                    "name": "shopify_variant_id",
+                    "value": "40231129153605"
+                },
+                {
+                    "name": "tags",
+                    "value": "age:Adult, badge:Best Seller, buy-it-now, category:Hoodies & Sweatshirts, color-family:Multi, gender:Women, promo:Employee70_Mar2023, promo:MarchEmployee23, S/23, season: Spring 2023, size-guide:size-guide-women, status:New, style-group:WomensSoleilHoodie, style:Hoodies, style:Lounge & Pajamas, style:Lounge and Pajamas, style:Slub Cotton, tc_update, U/23, women, Ygroup_WomensSoleilHoodie"
+                },
+                {
+                    "name": "variant_created_at",
+                    "value": "2022-08-03T16:04:50-04:00"
+                },
+                {
+                    "name": "variant_updated_at",
+                    "value": "2023-03-29T23:25:50-04:00"
+                }
+            ],
+            "keywords": [
+                "age:Adult",
+                "badge:Best Seller",
+                "buy-it-now",
+                "category:Hoodies & Sweatshirts",
+                "color-family:Multi",
+                "gender:Women",
+                "promo:Employee70_Mar2023",
+                "promo:MarchEmployee23",
+                "S/23",
+                "season: Spring 2023",
+                "size-guide:size-guide-women",
+                "status:New",
+                "style-group:WomensSoleilHoodie",
+                "style:Hoodies",
+                "style:Lounge & Pajamas",
+                "style:Lounge and Pajamas",
+                "style:Slub Cotton",
+                "tc_update",
+                "U/23",
+                "women",
+                "Ygroup_WomensSoleilHoodie"
+            ],
+            "tax_class_id": "",
+            "manufacturer": ""
+        },
+        {
+            "brand": "Faherty",
+            "is_searchable": false,
+            "is_published": false,
+            "show_in_listing": false,
+            "online_to": "2023-04-01T07:00:00Z",
+            "product_id": "WKS2336 -UNT-M",
+            "variant_group_id": "6796253397061",
+            "external_identifiers": [
+                {
+                    "type": "sku",
+                    "value": "WKS2336 -UNT-M"
+                },
+                {
+                    "type": "shopify_inventory_item_id",
+                    "value": "42326738534469"
+                },
+                {
+                    "type": "upc",
+                    "value": ""
+                },
+                {
+                    "type": "isbn",
+                    "value": "194622962232"
+                },
+                {
+                    "type": "ean13",
+                    "value": "194622962232"
+                }
+            ],
+            "title": "Soleil Hoodie - Sunset",
+            "caption": "Soleil Hoodie - Sunset",
+            "description": "Sunny days are ahead in our ultimate Faherty hoodie. Made from a super-soft and lightweight French terry, this where everywhere layer is pieced together in a sun, sea, and sand motif that channels all the feel-good vibes.\n\n\nFit: Relaxed fit\n\nDetail: Long sleeve hoodie with a fun in-the-sun inpired Pieced Design\n\nMaterial: 100% Cotton\n\nModel: Monika is 5’9 wearing size Small \n\n\nCare: Turn inside out. Machine Wash cold with like colors. Gentle cycle. Do not bleach. Tumble dry low. Remove promptly. Cool iron when needed.\nWKS2336-UNT\n",
+            "shipping_weight_unit": "lb",
+            "shipping_weight_value": 1.0,
+            "shipping_dimension_length": 0.0,
+            "shipping_dimension_width": 0.0,
+            "shipping_dimension_height": 0.0,
+            "shipping_dimension_unit": "cm",
+            "images": [
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/68d5fac7c9c0c2de47e47a98976ce7f8.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E1DCD8",
+                    "is_main": true
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/072bf91402c8198443357b00649eef7d.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3E0DF"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/208239c221e940b8452ee2a0169affb5.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3D7D2"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/98d4ac5f8786bf8d12d3a73ac407900c.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#DEDDDD"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/cde71fa8d621f6b3b2278515e473239e.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E5CEC5"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/d408a2880545c2d02dbe5313f8662726.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E0DDDB"
+                }
+            ],
+            "variation_color_value": "Sunset",
+            "variation_size_value": "M",
+            "material": "",
+            "google_category": "none",
+            "categories": [
+                {
+                    "path": "All"
+                },
+                {
+                    "is_main": true,
+                    "path": "All > All"
+                },
+                {
+                    "path": "All > Women's Bestsellers"
+                },
+                {
+                    "path": "All > Women's New Arrivals"
+                },
+                {
+                    "path": "All > Women's"
+                },
+                {
+                    "path": "All > New Jersey Tax - All Product Ex. Blankets"
+                },
+                {
+                    "path": "All > Faherty Brand Merchandise"
+                },
+                {
+                    "path": "All > Women's Hoodies and Sweatshirts"
+                },
+                {
+                    "path": "All > All products"
+                },
+                {
+                    "path": "All > Live Products - BFCM"
+                },
+                {
+                    "path": "All > Women's Packing List"
+                },
+                {
+                    "path": "All > Women's Spring Layers"
+                },
+                {
+                    "path": "All > All Products (exclude GC and 3rd Party)"
+                },
+                {
+                    "path": "All > Women's Hoodies"
+                },
+                {
+                    "path": "All > Women's Beach Shop"
+                },
+                {
+                    "path": "All > Loungewear"
+                },
+                {
+                    "path": "All > Women's Travel Edit"
+                },
+                {
+                    "path": "All > Women's Layers"
+                },
+                {
+                    "path": "All > Women's Loungewear"
+                },
+                {
+                    "path": "All > Women's Influencer Favorites"
+                },
+                {
+                    "path": "All > Gifts for Her"
+                }
+            ],
+            "extended_attributes": [
+                {
+                    "name": "fulfillment_service",
+                    "value": "manual"
+                },
+                {
+                    "name": "inventory_item_id",
+                    "value": "42326738534469"
+                },
+                {
+                    "name": "inventory_management",
+                    "value": "shopify"
+                },
+                {
+                    "name": "inventory_policy",
+                    "value": "deny"
+                },
+                {
+                    "name": "product_created_at",
+                    "value": "2022-08-03T16:04:49-04:00"
+                },
+                {
+                    "name": "product_handle",
+                    "value": "soleil-hoodie-sunset-1"
+                },
+                {
+                    "name": "product_published_at",
+                    "value": "2023-02-01T15:47:20-05:00"
+                },
+                {
+                    "name": "product_published_scope",
+                    "value": "global"
+                },
+                {
+                    "name": "product_updated_at",
+                    "value": "2023-03-29T23:30:26-04:00"
+                },
+                {
+                    "name": "shopify_variant_id",
+                    "value": "40231129120837"
+                },
+                {
+                    "name": "tags",
+                    "value": "age:Adult, badge:Best Seller, buy-it-now, category:Hoodies & Sweatshirts, color-family:Multi, gender:Women, promo:Employee70_Mar2023, promo:MarchEmployee23, S/23, season: Spring 2023, size-guide:size-guide-women, status:New, style-group:WomensSoleilHoodie, style:Hoodies, style:Lounge & Pajamas, style:Lounge and Pajamas, style:Slub Cotton, tc_update, U/23, women, Ygroup_WomensSoleilHoodie"
+                },
+                {
+                    "name": "variant_created_at",
+                    "value": "2022-08-03T16:04:50-04:00"
+                },
+                {
+                    "name": "variant_updated_at",
+                    "value": "2023-03-29T20:56:26-04:00"
+                }
+            ],
+            "keywords": [
+                "age:Adult",
+                "badge:Best Seller",
+                "buy-it-now",
+                "category:Hoodies & Sweatshirts",
+                "color-family:Multi",
+                "gender:Women",
+                "promo:Employee70_Mar2023",
+                "promo:MarchEmployee23",
+                "S/23",
+                "season: Spring 2023",
+                "size-guide:size-guide-women",
+                "status:New",
+                "style-group:WomensSoleilHoodie",
+                "style:Hoodies",
+                "style:Lounge & Pajamas",
+                "style:Lounge and Pajamas",
+                "style:Slub Cotton",
+                "tc_update",
+                "U/23",
+                "women",
+                "Ygroup_WomensSoleilHoodie"
+            ],
+            "tax_class_id": "",
+            "manufacturer": ""
+        },
+        {
+            "brand": "Faherty",
+            "is_searchable": false,
+            "is_published": false,
+            "show_in_listing": false,
+            "online_to": "2023-04-01T07:00:00Z",
+            "product_id": "WKS2336 -UNT-S",
+            "variant_group_id": "6796253397061",
+            "external_identifiers": [
+                {
+                    "type": "sku",
+                    "value": "WKS2336 -UNT-S"
+                },
+                {
+                    "type": "shopify_inventory_item_id",
+                    "value": "42326738501701"
+                },
+                {
+                    "type": "upc",
+                    "value": ""
+                },
+                {
+                    "type": "isbn",
+                    "value": "194622962249"
+                },
+                {
+                    "type": "ean13",
+                    "value": "194622962249"
+                }
+            ],
+            "title": "Soleil Hoodie - Sunset",
+            "caption": "Soleil Hoodie - Sunset",
+            "description": "Sunny days are ahead in our ultimate Faherty hoodie. Made from a super-soft and lightweight French terry, this where everywhere layer is pieced together in a sun, sea, and sand motif that channels all the feel-good vibes.\n\n\nFit: Relaxed fit\n\nDetail: Long sleeve hoodie with a fun in-the-sun inpired Pieced Design\n\nMaterial: 100% Cotton\n\nModel: Monika is 5’9 wearing size Small \n\n\nCare: Turn inside out. Machine Wash cold with like colors. Gentle cycle. Do not bleach. Tumble dry low. Remove promptly. Cool iron when needed.\nWKS2336-UNT\n",
+            "shipping_weight_unit": "lb",
+            "shipping_weight_value": 1.0,
+            "shipping_dimension_length": 0.0,
+            "shipping_dimension_width": 0.0,
+            "shipping_dimension_height": 0.0,
+            "shipping_dimension_unit": "cm",
+            "images": [
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/68d5fac7c9c0c2de47e47a98976ce7f8.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E1DCD8",
+                    "is_main": true
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/072bf91402c8198443357b00649eef7d.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3E0DF"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/208239c221e940b8452ee2a0169affb5.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3D7D2"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/98d4ac5f8786bf8d12d3a73ac407900c.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#DEDDDD"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/cde71fa8d621f6b3b2278515e473239e.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E5CEC5"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/d408a2880545c2d02dbe5313f8662726.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E0DDDB"
+                }
+            ],
+            "variation_color_value": "Sunset",
+            "variation_size_value": "L",
+            "material": "",
+            "google_category": "none",
+            "categories": [
+                {
+                    "path": "All"
+                },
+                {
+                    "is_main": true,
+                    "path": "All > All"
+                },
+                {
+                    "path": "All > Women's Bestsellers"
+                },
+                {
+                    "path": "All > Women's New Arrivals"
+                },
+                {
+                    "path": "All > Women's"
+                },
+                {
+                    "path": "All > New Jersey Tax - All Product Ex. Blankets"
+                },
+                {
+                    "path": "All > Faherty Brand Merchandise"
+                },
+                {
+                    "path": "All > Women's Hoodies and Sweatshirts"
+                },
+                {
+                    "path": "All > All products"
+                },
+                {
+                    "path": "All > Live Products - BFCM"
+                },
+                {
+                    "path": "All > Women's Packing List"
+                },
+                {
+                    "path": "All > Women's Spring Layers"
+                },
+                {
+                    "path": "All > All Products (exclude GC and 3rd Party)"
+                },
+                {
+                    "path": "All > Women's Hoodies"
+                },
+                {
+                    "path": "All > Women's Beach Shop"
+                },
+                {
+                    "path": "All > Loungewear"
+                },
+                {
+                    "path": "All > Women's Travel Edit"
+                },
+                {
+                    "path": "All > Women's Layers"
+                },
+                {
+                    "path": "All > Women's Loungewear"
+                },
+                {
+                    "path": "All > Women's Influencer Favorites"
+                },
+                {
+                    "path": "All > Gifts for Her"
+                }
+            ],
+            "extended_attributes": [
+                {
+                    "name": "fulfillment_service",
+                    "value": "manual"
+                },
+                {
+                    "name": "inventory_item_id",
+                    "value": "42326738501701"
+                },
+                {
+                    "name": "inventory_management",
+                    "value": "shopify"
+                },
+                {
+                    "name": "inventory_policy",
+                    "value": "deny"
+                },
+                {
+                    "name": "product_created_at",
+                    "value": "2022-08-03T16:04:49-04:00"
+                },
+                {
+                    "name": "product_handle",
+                    "value": "soleil-hoodie-sunset-1"
+                },
+                {
+                    "name": "product_published_at",
+                    "value": "2023-02-01T15:47:20-05:00"
+                },
+                {
+                    "name": "product_published_scope",
+                    "value": "global"
+                },
+                {
+                    "name": "product_updated_at",
+                    "value": "2023-03-29T23:30:26-04:00"
+                },
+                {
+                    "name": "shopify_variant_id",
+                    "value": "40231129088069"
+                },
+                {
+                    "name": "tags",
+                    "value": "age:Adult, badge:Best Seller, buy-it-now, category:Hoodies & Sweatshirts, color-family:Multi, gender:Women, promo:Employee70_Mar2023, promo:MarchEmployee23, S/23, season: Spring 2023, size-guide:size-guide-women, status:New, style-group:WomensSoleilHoodie, style:Hoodies, style:Lounge & Pajamas, style:Lounge and Pajamas, style:Slub Cotton, tc_update, U/23, women, Ygroup_WomensSoleilHoodie"
+                },
+                {
+                    "name": "variant_created_at",
+                    "value": "2022-08-03T16:04:50-04:00"
+                },
+                {
+                    "name": "variant_updated_at",
+                    "value": "2023-03-29T21:31:26-04:00"
+                }
+            ],
+            "keywords": [
+                "age:Adult",
+                "badge:Best Seller",
+                "buy-it-now",
+                "category:Hoodies & Sweatshirts",
+                "color-family:Multi",
+                "gender:Women",
+                "promo:Employee70_Mar2023",
+                "promo:MarchEmployee23",
+                "S/23",
+                "season: Spring 2023",
+                "size-guide:size-guide-women",
+                "status:New",
+                "style-group:WomensSoleilHoodie",
+                "style:Hoodies",
+                "style:Lounge & Pajamas",
+                "style:Lounge and Pajamas",
+                "style:Slub Cotton",
+                "tc_update",
+                "U/23",
+                "women",
+                "Ygroup_WomensSoleilHoodie"
+            ],
+            "tax_class_id": "",
+            "manufacturer": ""
+        },
+        {
+            "brand": "Faherty",
+            "is_searchable": false,
+            "is_published": false,
+            "show_in_listing": false,
+            "online_to": "2023-04-01T07:00:00Z",
+            "product_id": "WKS2336 -UNT-XL",
+            "variant_group_id": "6796253397061",
+            "external_identifiers": [
+                {
+                    "type": "sku",
+                    "value": "WKS2336 -UNT-XL"
+                },
+                {
+                    "type": "shopify_inventory_item_id",
+                    "value": "42326738600005"
+                },
+                {
+                    "type": "upc",
+                    "value": ""
+                },
+                {
+                    "type": "isbn",
+                    "value": "194622962218"
+                },
+                {
+                    "type": "ean13",
+                    "value": "194622962218"
+                }
+            ],
+            "title": "Soleil Hoodie - Sunset",
+            "caption": "Soleil Hoodie - Sunset",
+            "description": "Sunny days are ahead in our ultimate Faherty hoodie. Made from a super-soft and lightweight French terry, this where everywhere layer is pieced together in a sun, sea, and sand motif that channels all the feel-good vibes.\n\n\nFit: Relaxed fit\n\nDetail: Long sleeve hoodie with a fun in-the-sun inpired Pieced Design\n\nMaterial: 100% Cotton\n\nModel: Monika is 5’9 wearing size Small \n\n\nCare: Turn inside out. Machine Wash cold with like colors. Gentle cycle. Do not bleach. Tumble dry low. Remove promptly. Cool iron when needed.\nWKS2336-UNT\n",
+            "shipping_weight_unit": "lb",
+            "shipping_weight_value": 1.0,
+            "shipping_dimension_length": 0.0,
+            "shipping_dimension_width": 0.0,
+            "shipping_dimension_height": 0.0,
+            "shipping_dimension_unit": "cm",
+            "images": [
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/68d5fac7c9c0c2de47e47a98976ce7f8.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E1DCD8",
+                    "is_main": true
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/072bf91402c8198443357b00649eef7d.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3E0DF"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/208239c221e940b8452ee2a0169affb5.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3D7D2"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/98d4ac5f8786bf8d12d3a73ac407900c.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#DEDDDD"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/cde71fa8d621f6b3b2278515e473239e.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E5CEC5"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/d408a2880545c2d02dbe5313f8662726.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E0DDDB"
+                }
+            ],
+            "variation_color_value": "Sunset",
+            "variation_size_value": "XL",
+            "material": "",
+            "google_category": "none",
+            "categories": [
+                {
+                    "path": "All"
+                },
+                {
+                    "is_main": true,
+                    "path": "All > All"
+                },
+                {
+                    "path": "All > Women's Bestsellers"
+                },
+                {
+                    "path": "All > Women's New Arrivals"
+                },
+                {
+                    "path": "All > Women's"
+                },
+                {
+                    "path": "All > New Jersey Tax - All Product Ex. Blankets"
+                },
+                {
+                    "path": "All > Faherty Brand Merchandise"
+                },
+                {
+                    "path": "All > Women's Hoodies and Sweatshirts"
+                },
+                {
+                    "path": "All > All products"
+                },
+                {
+                    "path": "All > Live Products - BFCM"
+                },
+                {
+                    "path": "All > Women's Packing List"
+                },
+                {
+                    "path": "All > Women's Spring Layers"
+                },
+                {
+                    "path": "All > All Products (exclude GC and 3rd Party)"
+                },
+                {
+                    "path": "All > Women's Hoodies"
+                },
+                {
+                    "path": "All > Women's Beach Shop"
+                },
+                {
+                    "path": "All > Loungewear"
+                },
+                {
+                    "path": "All > Women's Travel Edit"
+                },
+                {
+                    "path": "All > Women's Layers"
+                },
+                {
+                    "path": "All > Women's Loungewear"
+                },
+                {
+                    "path": "All > Women's Influencer Favorites"
+                },
+                {
+                    "path": "All > Gifts for Her"
+                }
+            ],
+            "extended_attributes": [
+                {
+                    "name": "fulfillment_service",
+                    "value": "manual"
+                },
+                {
+                    "name": "inventory_item_id",
+                    "value": "42326738600005"
+                },
+                {
+                    "name": "inventory_management",
+                    "value": "shopify"
+                },
+                {
+                    "name": "inventory_policy",
+                    "value": "deny"
+                },
+                {
+                    "name": "product_created_at",
+                    "value": "2022-08-03T16:04:49-04:00"
+                },
+                {
+                    "name": "product_handle",
+                    "value": "soleil-hoodie-sunset-1"
+                },
+                {
+                    "name": "product_published_at",
+                    "value": "2023-02-01T15:47:20-05:00"
+                },
+                {
+                    "name": "product_published_scope",
+                    "value": "global"
+                },
+                {
+                    "name": "product_updated_at",
+                    "value": "2023-03-29T23:30:26-04:00"
+                },
+                {
+                    "name": "shopify_variant_id",
+                    "value": "40231129186373"
+                },
+                {
+                    "name": "tags",
+                    "value": "age:Adult, badge:Best Seller, buy-it-now, category:Hoodies & Sweatshirts, color-family:Multi, gender:Women, promo:Employee70_Mar2023, promo:MarchEmployee23, S/23, season: Spring 2023, size-guide:size-guide-women, status:New, style-group:WomensSoleilHoodie, style:Hoodies, style:Lounge & Pajamas, style:Lounge and Pajamas, style:Slub Cotton, tc_update, U/23, women, Ygroup_WomensSoleilHoodie"
+                },
+                {
+                    "name": "variant_created_at",
+                    "value": "2022-08-03T16:04:50-04:00"
+                },
+                {
+                    "name": "variant_updated_at",
+                    "value": "2023-03-29T20:04:56-04:00"
+                }
+            ],
+            "keywords": [
+                "age:Adult",
+                "badge:Best Seller",
+                "buy-it-now",
+                "category:Hoodies & Sweatshirts",
+                "color-family:Multi",
+                "gender:Women",
+                "promo:Employee70_Mar2023",
+                "promo:MarchEmployee23",
+                "S/23",
+                "season: Spring 2023",
+                "size-guide:size-guide-women",
+                "status:New",
+                "style-group:WomensSoleilHoodie",
+                "style:Hoodies",
+                "style:Lounge & Pajamas",
+                "style:Lounge and Pajamas",
+                "style:Slub Cotton",
+                "tc_update",
+                "U/23",
+                "women",
+                "Ygroup_WomensSoleilHoodie"
+            ],
+            "tax_class_id": "",
+            "manufacturer": ""
+        },
+        {
+            "brand": "Faherty",
+            "is_searchable": false,
+            "is_published": false,
+            "show_in_listing": false,
+            "online_to": "2023-04-01T07:00:00Z",
+            "product_id": "WKS2336 -UNT-XS",
+            "variant_group_id": "6796253397061",
+            "external_identifiers": [
+                {
+                    "type": "sku",
+                    "value": "WKS2336 -UNT-XS"
+                },
+                {
+                    "type": "shopify_inventory_item_id",
+                    "value": "42326738468933"
+                },
+                {
+                    "type": "upc",
+                    "value": ""
+                },
+                {
+                    "type": "isbn",
+                    "value": "194622962256"
+                },
+                {
+                    "type": "ean13",
+                    "value": "194622962256"
+                }
+            ],
+            "title": "Soleil Hoodie - Sunset",
+            "caption": "Soleil Hoodie - Sunset",
+            "description": "Sunny days are ahead in our ultimate Faherty hoodie. Made from a super-soft and lightweight French terry, this where everywhere layer is pieced together in a sun, sea, and sand motif that channels all the feel-good vibes.\n\n\nFit: Relaxed fit\n\nDetail: Long sleeve hoodie with a fun in-the-sun inpired Pieced Design\n\nMaterial: 100% Cotton\n\nModel: Monika is 5’9 wearing size Small \n\n\nCare: Turn inside out. Machine Wash cold with like colors. Gentle cycle. Do not bleach. Tumble dry low. Remove promptly. Cool iron when needed.\nWKS2336-UNT\n",
+            "shipping_weight_unit": "lb",
+            "shipping_weight_value": 1.0,
+            "shipping_dimension_length": 0.0,
+            "shipping_dimension_width": 0.0,
+            "shipping_dimension_height": 0.0,
+            "shipping_dimension_unit": "cm",
+            "images": [
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/68d5fac7c9c0c2de47e47a98976ce7f8.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E1DCD8",
+                    "is_main": true
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/072bf91402c8198443357b00649eef7d.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3E0DF"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/208239c221e940b8452ee2a0169affb5.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3D7D2"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/98d4ac5f8786bf8d12d3a73ac407900c.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#DEDDDD"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/cde71fa8d621f6b3b2278515e473239e.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E5CEC5"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/d408a2880545c2d02dbe5313f8662726.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E0DDDB"
+                }
+            ],
+            "variation_color_value": "Sunset",
+            "variation_size_value": "XS",
+            "material": "",
+            "google_category": "none",
+            "categories": [
+                {
+                    "path": "All"
+                },
+                {
+                    "is_main": true,
+                    "path": "All > All"
+                },
+                {
+                    "path": "All > Women's Bestsellers"
+                },
+                {
+                    "path": "All > Women's New Arrivals"
+                },
+                {
+                    "path": "All > Women's"
+                },
+                {
+                    "path": "All > New Jersey Tax - All Product Ex. Blankets"
+                },
+                {
+                    "path": "All > Faherty Brand Merchandise"
+                },
+                {
+                    "path": "All > Women's Hoodies and Sweatshirts"
+                },
+                {
+                    "path": "All > All products"
+                },
+                {
+                    "path": "All > Live Products - BFCM"
+                },
+                {
+                    "path": "All > Women's Packing List"
+                },
+                {
+                    "path": "All > Women's Spring Layers"
+                },
+                {
+                    "path": "All > All Products (exclude GC and 3rd Party)"
+                },
+                {
+                    "path": "All > Women's Hoodies"
+                },
+                {
+                    "path": "All > Women's Beach Shop"
+                },
+                {
+                    "path": "All > Loungewear"
+                },
+                {
+                    "path": "All > Women's Travel Edit"
+                },
+                {
+                    "path": "All > Women's Layers"
+                },
+                {
+                    "path": "All > Women's Loungewear"
+                },
+                {
+                    "path": "All > Women's Influencer Favorites"
+                },
+                {
+                    "path": "All > Gifts for Her"
+                }
+            ],
+            "extended_attributes": [
+                {
+                    "name": "fulfillment_service",
+                    "value": "manual"
+                },
+                {
+                    "name": "inventory_item_id",
+                    "value": "42326738468933"
+                },
+                {
+                    "name": "inventory_management",
+                    "value": "shopify"
+                },
+                {
+                    "name": "inventory_policy",
+                    "value": "deny"
+                },
+                {
+                    "name": "product_created_at",
+                    "value": "2022-08-03T16:04:49-04:00"
+                },
+                {
+                    "name": "product_handle",
+                    "value": "soleil-hoodie-sunset-1"
+                },
+                {
+                    "name": "product_published_at",
+                    "value": "2023-02-01T15:47:20-05:00"
+                },
+                {
+                    "name": "product_published_scope",
+                    "value": "global"
+                },
+                {
+                    "name": "product_updated_at",
+                    "value": "2023-03-29T23:30:26-04:00"
+                },
+                {
+                    "name": "shopify_variant_id",
+                    "value": "40231129055301"
+                },
+                {
+                    "name": "tags",
+                    "value": "age:Adult, badge:Best Seller, buy-it-now, category:Hoodies & Sweatshirts, color-family:Multi, gender:Women, promo:Employee70_Mar2023, promo:MarchEmployee23, S/23, season: Spring 2023, size-guide:size-guide-women, status:New, style-group:WomensSoleilHoodie, style:Hoodies, style:Lounge & Pajamas, style:Lounge and Pajamas, style:Slub Cotton, tc_update, U/23, women, Ygroup_WomensSoleilHoodie"
+                },
+                {
+                    "name": "variant_created_at",
+                    "value": "2022-08-03T16:04:50-04:00"
+                },
+                {
+                    "name": "variant_updated_at",
+                    "value": "2023-03-29T23:12:35-04:00"
+                }
+            ],
+            "keywords": [
+                "age:Adult",
+                "badge:Best Seller",
+                "buy-it-now",
+                "category:Hoodies & Sweatshirts",
+                "color-family:Multi",
+                "gender:Women",
+                "promo:Employee70_Mar2023",
+                "promo:MarchEmployee23",
+                "S/23",
+                "season: Spring 2023",
+                "size-guide:size-guide-women",
+                "status:New",
+                "style-group:WomensSoleilHoodie",
+                "style:Hoodies",
+                "style:Lounge & Pajamas",
+                "style:Lounge and Pajamas",
+                "style:Slub Cotton",
+                "tc_update",
+                "U/23",
+                "women",
+                "Ygroup_WomensSoleilHoodie"
+            ],
+            "tax_class_id": "",
+            "manufacturer": ""
+        },
+        {
+            "brand": "Faherty",
+            "is_searchable": false,
+            "is_published": false,
+            "show_in_listing": false,
+            "online_to": "2023-04-01T07:00:00Z",
+            "product_id": "WKS2336 -UNT-XXL",
+            "variant_group_id": "6796253397061",
+            "external_identifiers": [
+                {
+                    "type": "sku",
+                    "value": "WKS2336 -UNT-XXL"
+                },
+                {
+                    "type": "shopify_inventory_item_id",
+                    "value": "42326738632773"
+                },
+                {
+                    "type": "upc",
+                    "value": ""
+                },
+                {
+                    "type": "isbn",
+                    "value": "194622962201"
+                },
+                {
+                    "type": "ean13",
+                    "value": "194622962201"
+                }
+            ],
+            "title": "Soleil Hoodie - Sunset",
+            "caption": "Soleil Hoodie - Sunset",
+            "description": "Sunny days are ahead in our ultimate Faherty hoodie. Made from a super-soft and lightweight French terry, this where everywhere layer is pieced together in a sun, sea, and sand motif that channels all the feel-good vibes.\n\n\nFit: Relaxed fit\n\nDetail: Long sleeve hoodie with a fun in-the-sun inpired Pieced Design\n\nMaterial: 100% Cotton\n\nModel: Monika is 5’9 wearing size Small \n\n\nCare: Turn inside out. Machine Wash cold with like colors. Gentle cycle. Do not bleach. Tumble dry low. Remove promptly. Cool iron when needed.\nWKS2336-UNT\n",
+            "shipping_weight_unit": "lb",
+            "shipping_weight_value": 1.0,
+            "shipping_dimension_length": 0.0,
+            "shipping_dimension_width": 0.0,
+            "shipping_dimension_height": 0.0,
+            "shipping_dimension_unit": "cm",
+            "images": [
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/68d5fac7c9c0c2de47e47a98976ce7f8.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E1DCD8",
+                    "is_main": true
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/072bf91402c8198443357b00649eef7d.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3E0DF"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/208239c221e940b8452ee2a0169affb5.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3D7D2"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/98d4ac5f8786bf8d12d3a73ac407900c.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#DEDDDD"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/cde71fa8d621f6b3b2278515e473239e.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E5CEC5"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/d408a2880545c2d02dbe5313f8662726.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E0DDDB"
+                }
+            ],
+            "variation_color_value": "Sunset",
+            "variation_size_value": "XXL",
+            "material": "",
+            "google_category": "none",
+            "categories": [
+                {
+                    "path": "All"
+                },
+                {
+                    "is_main": true,
+                    "path": "All > All"
+                },
+                {
+                    "path": "All > Women's Bestsellers"
+                },
+                {
+                    "path": "All > Women's New Arrivals"
+                },
+                {
+                    "path": "All > Women's"
+                },
+                {
+                    "path": "All > New Jersey Tax - All Product Ex. Blankets"
+                },
+                {
+                    "path": "All > Faherty Brand Merchandise"
+                },
+                {
+                    "path": "All > Women's Hoodies and Sweatshirts"
+                },
+                {
+                    "path": "All > All products"
+                },
+                {
+                    "path": "All > Live Products - BFCM"
+                },
+                {
+                    "path": "All > Women's Packing List"
+                },
+                {
+                    "path": "All > Women's Spring Layers"
+                },
+                {
+                    "path": "All > All Products (exclude GC and 3rd Party)"
+                },
+                {
+                    "path": "All > Women's Hoodies"
+                },
+                {
+                    "path": "All > Women's Beach Shop"
+                },
+                {
+                    "path": "All > Loungewear"
+                },
+                {
+                    "path": "All > Women's Travel Edit"
+                },
+                {
+                    "path": "All > Women's Layers"
+                },
+                {
+                    "path": "All > Women's Loungewear"
+                },
+                {
+                    "path": "All > Women's Influencer Favorites"
+                },
+                {
+                    "path": "All > Gifts for Her"
+                }
+            ],
+            "extended_attributes": [
+                {
+                    "name": "fulfillment_service",
+                    "value": "manual"
+                },
+                {
+                    "name": "inventory_item_id",
+                    "value": "42326738632773"
+                },
+                {
+                    "name": "inventory_management",
+                    "value": "shopify"
+                },
+                {
+                    "name": "inventory_policy",
+                    "value": "deny"
+                },
+                {
+                    "name": "product_created_at",
+                    "value": "2022-08-03T16:04:49-04:00"
+                },
+                {
+                    "name": "product_handle",
+                    "value": "soleil-hoodie-sunset-1"
+                },
+                {
+                    "name": "product_published_at",
+                    "value": "2023-02-01T15:47:20-05:00"
+                },
+                {
+                    "name": "product_published_scope",
+                    "value": "global"
+                },
+                {
+                    "name": "product_updated_at",
+                    "value": "2023-03-29T23:30:26-04:00"
+                },
+                {
+                    "name": "shopify_variant_id",
+                    "value": "40231129219141"
+                },
+                {
+                    "name": "tags",
+                    "value": "age:Adult, badge:Best Seller, buy-it-now, category:Hoodies & Sweatshirts, color-family:Multi, gender:Women, promo:Employee70_Mar2023, promo:MarchEmployee23, S/23, season: Spring 2023, size-guide:size-guide-women, status:New, style-group:WomensSoleilHoodie, style:Hoodies, style:Lounge & Pajamas, style:Lounge and Pajamas, style:Slub Cotton, tc_update, U/23, women, Ygroup_WomensSoleilHoodie"
+                },
+                {
+                    "name": "variant_created_at",
+                    "value": "2022-08-03T16:04:50-04:00"
+                },
+                {
+                    "name": "variant_updated_at",
+                    "value": "2023-03-29T22:27:06-04:00"
+                }
+            ],
+            "keywords": [
+                "age:Adult",
+                "badge:Best Seller",
+                "buy-it-now",
+                "category:Hoodies & Sweatshirts",
+                "color-family:Multi",
+                "gender:Women",
+                "promo:Employee70_Mar2023",
+                "promo:MarchEmployee23",
+                "S/23",
+                "season: Spring 2023",
+                "size-guide:size-guide-women",
+                "status:New",
+                "style-group:WomensSoleilHoodie",
+                "style:Hoodies",
+                "style:Lounge & Pajamas",
+                "style:Lounge and Pajamas",
+                "style:Slub Cotton",
+                "tc_update",
+                "U/23",
+                "women",
+                "Ygroup_WomensSoleilHoodie"
+            ],
+            "tax_class_id": "",
+            "manufacturer": ""
+        },
+        {
+            "brand": "Faherty",
+            "is_searchable": false,
+            "is_published": false,
+            "show_in_listing": false,
+            "online_to": "2023-04-01T07:00:00Z",
+            "product_id": "WKS2336 -UNT-XXS",
+            "variant_group_id": "6796253397061",
+            "external_identifiers": [
+                {
+                    "type": "sku",
+                    "value": "WKS2336 -UNT-XXS"
+                },
+                {
+                    "type": "shopify_inventory_item_id",
+                    "value": "42326738436165"
+                },
+                {
+                    "type": "upc",
+                    "value": ""
+                },
+                {
+                    "type": "isbn",
+                    "value": "194622962263"
+                },
+                {
+                    "type": "ean13",
+                    "value": "194622962263"
+                }
+            ],
+            "title": "Soleil Hoodie - Sunset",
+            "caption": "Soleil Hoodie - Sunset",
+            "description": "Sunny days are ahead in our ultimate Faherty hoodie. Made from a super-soft and lightweight French terry, this where everywhere layer is pieced together in a sun, sea, and sand motif that channels all the feel-good vibes.\n\n\nFit: Relaxed fit\n\nDetail: Long sleeve hoodie with a fun in-the-sun inpired Pieced Design\n\nMaterial: 100% Cotton\n\nModel: Monika is 5’9 wearing size Small \n\n\nCare: Turn inside out. Machine Wash cold with like colors. Gentle cycle. Do not bleach. Tumble dry low. Remove promptly. Cool iron when needed.\nWKS2336-UNT\n",
+            "shipping_weight_unit": "lb",
+            "shipping_weight_value": 1.0,
+            "shipping_dimension_length": 0.0,
+            "shipping_dimension_width": 0.0,
+            "shipping_dimension_height": 0.0,
+            "shipping_dimension_unit": "cm",
+            "images": [
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/68d5fac7c9c0c2de47e47a98976ce7f8.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E1DCD8",
+                    "is_main": true
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/072bf91402c8198443357b00649eef7d.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3E0DF"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/208239c221e940b8452ee2a0169affb5.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E3D7D2"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/98d4ac5f8786bf8d12d3a73ac407900c.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#DEDDDD"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/cde71fa8d621f6b3b2278515e473239e.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E5CEC5"
+                },
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1672993456/p/faherty/d408a2880545c2d02dbe5313f8662726.jpg",
+                    "internal_dimension_height": 4472,
+                    "internal_dimension_width": 3354,
+                    "internal_dominant_color": "#E0DDDB"
+                }
+            ],
+            "variation_color_value": "Sunset",
+            "variation_size_value": "XXS",
+            "material": "",
+            "google_category": "none",
+            "categories": [
+                {
+                    "path": "All"
+                },
+                {
+                    "is_main": true,
+                    "path": "All > All"
+                },
+                {
+                    "path": "All > Women's Bestsellers"
+                },
+                {
+                    "path": "All > Women's New Arrivals"
+                },
+                {
+                    "path": "All > Women's"
+                },
+                {
+                    "path": "All > New Jersey Tax - All Product Ex. Blankets"
+                },
+                {
+                    "path": "All > Faherty Brand Merchandise"
+                },
+                {
+                    "path": "All > Women's Hoodies and Sweatshirts"
+                },
+                {
+                    "path": "All > All products"
+                },
+                {
+                    "path": "All > Live Products - BFCM"
+                },
+                {
+                    "path": "All > Women's Packing List"
+                },
+                {
+                    "path": "All > Women's Spring Layers"
+                },
+                {
+                    "path": "All > All Products (exclude GC and 3rd Party)"
+                },
+                {
+                    "path": "All > Women's Hoodies"
+                },
+                {
+                    "path": "All > Women's Beach Shop"
+                },
+                {
+                    "path": "All > Loungewear"
+                },
+                {
+                    "path": "All > Women's Travel Edit"
+                },
+                {
+                    "path": "All > Women's Layers"
+                },
+                {
+                    "path": "All > Women's Loungewear"
+                },
+                {
+                    "path": "All > Women's Influencer Favorites"
+                },
+                {
+                    "path": "All > Gifts for Her"
+                }
+            ],
+            "extended_attributes": [
+                {
+                    "name": "fulfillment_service",
+                    "value": "manual"
+                },
+                {
+                    "name": "inventory_item_id",
+                    "value": "42326738436165"
+                },
+                {
+                    "name": "inventory_management",
+                    "value": "shopify"
+                },
+                {
+                    "name": "inventory_policy",
+                    "value": "deny"
+                },
+                {
+                    "name": "product_created_at",
+                    "value": "2022-08-03T16:04:49-04:00"
+                },
+                {
+                    "name": "product_handle",
+                    "value": "soleil-hoodie-sunset-1"
+                },
+                {
+                    "name": "product_published_at",
+                    "value": "2023-02-01T15:47:20-05:00"
+                },
+                {
+                    "name": "product_published_scope",
+                    "value": "global"
+                },
+                {
+                    "name": "product_updated_at",
+                    "value": "2023-03-29T23:30:26-04:00"
+                },
+                {
+                    "name": "shopify_variant_id",
+                    "value": "40231129022533"
+                },
+                {
+                    "name": "tags",
+                    "value": "age:Adult, badge:Best Seller, buy-it-now, category:Hoodies & Sweatshirts, color-family:Multi, gender:Women, promo:Employee70_Mar2023, promo:MarchEmployee23, S/23, season: Spring 2023, size-guide:size-guide-women, status:New, style-group:WomensSoleilHoodie, style:Hoodies, style:Lounge & Pajamas, style:Lounge and Pajamas, style:Slub Cotton, tc_update, U/23, women, Ygroup_WomensSoleilHoodie"
+                },
+                {
+                    "name": "variant_created_at",
+                    "value": "2022-08-03T16:04:50-04:00"
+                },
+                {
+                    "name": "variant_updated_at",
+                    "value": "2023-03-28T18:02:05-04:00"
+                }
+            ],
+            "keywords": [
+                "age:Adult",
+                "badge:Best Seller",
+                "buy-it-now",
+                "category:Hoodies & Sweatshirts",
+                "color-family:Multi",
+                "gender:Women",
+                "promo:Employee70_Mar2023",
+                "promo:MarchEmployee23",
+                "S/23",
+                "season: Spring 2023",
+                "size-guide:size-guide-women",
+                "status:New",
+                "style-group:WomensSoleilHoodie",
+                "style:Hoodies",
+                "style:Lounge & Pajamas",
+                "style:Lounge and Pajamas",
+                "style:Slub Cotton",
+                "tc_update",
+                "U/23",
+                "women",
+                "Ygroup_WomensSoleilHoodie"
+            ],
+            "tax_class_id": "",
+            "manufacturer": ""
+        }
+    ]
+}

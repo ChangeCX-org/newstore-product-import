@@ -1,0 +1,204 @@
+{
+    "head": {
+        "locale": "en-US",
+        "shop": "storefront-catalog-en",
+        "is_master": true,
+        "searchable_attributes": [
+            {
+                "name": "sku",
+                "path": "$.external_identifiers[?(@.type == 'sku')].value",
+                "weight": 1
+            },
+            {
+                "name": "product_id",
+                "path": "$.product_id",
+                "weight": 2
+            }
+        ],
+        "filterable_attributes": [
+            {
+                "name": "Color",
+                "path": "$.variation_color_value"
+            },
+            {
+                "name": "Size",
+                "path": "$.variation_size_value"
+            }
+        ]
+    },
+    "items": [
+        {
+            "brand": "Birkenstock",
+            "is_searchable": false,
+            "is_published": true,
+            "show_in_listing": false,
+            "product_id": "WAC0019-TAU-38",
+            "variant_group_id": "4616510865477",
+            "external_identifiers": [
+                {
+                    "type": "sku",
+                    "value": "WAC0019-TAU-38"
+                },
+                {
+                    "type": "shopify_inventory_item_id",
+                    "value": "33509148360773"
+                },
+                {
+                    "type": "upc",
+                    "value": "809410342690"
+                },
+                {
+                    "type": "isbn",
+                    "value": "809410342690"
+                },
+                {
+                    "type": "ean13",
+                    "value": "809410342690"
+                }
+            ],
+            "title": "Birkenstock Arizona (soft footbed) - Taupe",
+            "caption": "Birkenstock Arizona (soft footbed) - Taupe",
+            "description": "Birkenstock Arizona (soft footbed)",
+            "shipping_weight_unit": "lb",
+            "shipping_weight_value": 1.0,
+            "shipping_dimension_length": 0.0,
+            "shipping_dimension_width": 0.0,
+            "shipping_dimension_height": 0.0,
+            "shipping_dimension_unit": "cm",
+            "images": [
+                {
+                    "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1631554666/p/faherty/6e92aa66747d37bb56c232af5eba9c9c.png",
+                    "is_main": true
+                }
+            ],
+            "variation_color_value": "Taupe",
+            "variation_size_value": "38",
+            "material": "",
+            "google_category": "none",
+            "categories": [
+                {
+                    "path": "All"
+                },
+                {
+                    "is_main": true,
+                    "path": "All > All"
+                },
+                {
+                    "path": "All > Women's"
+                },
+                {
+                    "path": "All > New Jersey Tax - All Product Ex. Blankets"
+                },
+                {
+                    
+                    "path": "All > All products"
+                    
+                },
+                {
+                    
+                    "path": "All > Live Products - BFCM"
+                    
+                },
+                {
+                    
+                    "path": "All > SPO-filter-cee5b992b0d8b661e96cfd7c427e3b13"
+                    
+                },
+                {
+                    
+                    "path": "All > Women's Accessories"
+                    
+                },
+                {
+
+                    "path": "All > Brands We Love"
+
+                },
+                {
+                    
+                    "path": "All > Beach Accessories"
+                    
+                },
+                {
+                    
+                    "path": "All > Women's Unisex Accessories"
+                    
+                },
+                {
+                    "path": "All > MM Test Collection"
+                 
+                },
+                {
+                    "path": "All > BFCM Women's"
+                }
+            ],
+            "extended_attributes": [
+                {
+                    "name": "fulfillment_service",
+                    "value": "manual"
+                },
+                {
+                    "name": "inventory_item_id",
+                    "value": "33509148360773"
+                },
+                {
+                    "name": "inventory_management",
+                    "value": "shopify"
+                },
+                {
+                    "name": "inventory_policy",
+                    "value": "deny"
+                },
+                {
+                    "name": "product_created_at",
+                    "value": "2020-11-17T17:45:57-05:00"
+                },
+                {
+                    "name": "product_handle",
+                    "value": "birkenstock-arizona-soft-footbed-taupe"
+                },
+                {
+                    "name": "product_published_scope",
+                    "value": "global"
+                },
+                {
+                    "name": "product_updated_at",
+                    "value": "2023-03-06T12:15:36-05:00"
+                },
+                {
+                    "name": "shopify_variant_id",
+                    "value": "31962505412677"
+                },
+                {
+                    "name": "tags",
+                    "value": "Accessories, age:Adult, badge:Brands We Love, buy-it-now, CORE (ALL YEARS), gender:Women, marbook23, season:Core, special collection:Brands We Love, spo-default, spo-disabled, Third Party, Women's Accessories"
+                },
+                {
+                    "name": "variant_created_at",
+                    "value": "2020-11-17T17:45:57-05:00"
+                },
+                {
+                    "name": "variant_updated_at",
+                    "value": "2022-09-14T11:32:56-04:00"
+                }
+            ],
+            "keywords": [
+                "Accessories",
+                "age:Adult",
+                "badge:Brands We Love",
+                "buy-it-now",
+                "CORE (ALL YEARS)",
+                "gender:Women",
+                "marbook23",
+                "season:Core",
+                "special collection:Brands We Love",
+                "spo-default",
+                "spo-disabled",
+                "Third Party",
+                "Women's Accessories"
+            ],
+            "tax_class_id": "",
+            "manufacturer": ""
+        }
+    ]
+}

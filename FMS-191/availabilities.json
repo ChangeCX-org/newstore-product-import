@@ -1,0 +1,27 @@
+{
+  "head": {
+    "store_mapping": [
+      {
+        "fulfillment_node_id": "PAL54",
+        "store_id": "PAL54"
+      },
+      {
+        "fulfillment_node_id": "SSQ51",
+        "store_id": "SSQ51"
+      }
+    ],
+    "mode": "atp"
+  },
+  "items": [
+    {
+      "fulfillment_node_id": "PAL54",
+      "product_id": "WAC0019-TAU-38",
+      "quantity": 1
+    },
+    {
+      "fulfillment_node_id": "SSQ51",
+      "product_id": "WAC0019-TAU-38",
+      "quantity": 1
+    }
+  ]
+}
