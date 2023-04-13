@@ -1,0 +1,23 @@
+{
+  "head": {
+    "store_mapping": [
+      {
+        "fulfillment_node_id": "DAL30",
+        "store_id": "DAL30"
+      }
+    ],
+    "mode": "atp"
+  },
+  "items": [
+    {
+      "fulfillment_node_id": "DAL30",
+      "product_id": "HAC0001-ALC-OS",
+      "quantity": 10
+    },
+    {
+      "fulfillment_node_id": "DAL30",
+      "product_id": "HAC0001-CSM-OS",
+      "quantity": 10
+    }
+  ]
+}

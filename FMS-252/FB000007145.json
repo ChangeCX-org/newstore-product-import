@@ -1,0 +1,122 @@
+{
+  "id": "FB000007145",
+  "origin": "newstore",
+  "origin_id": "8946cb20-e1a9-4dba-a03a-bbaec1496966",
+  "channel_type": "store",
+  "placed_at": "2023-04-07T16:22:49.409801",
+  "status": "closed",
+  "currency": "USD",
+  "fulfillment_type": "N/A",
+  "items": [
+    {
+      "id": "2e6f4381-fb85-48f3-919f-518ceb0d6a30",
+      "origin_id": "2e6f4381-fb85-48f3-919f-518ceb0d6a30",
+      "status": "cancelled",
+      "price": {
+        "gross": 153.6,
+        "net": 128.0,
+        "tax": 25.6,
+        "discount": 0.0
+      },
+      "product_attributes": {
+        "name": "ADIRONDACK BLANKET - INDIGO BATIK FLORAL"
+      },
+      "external_identifier": {
+        "sku": "HAC0001-IBF-OS",
+        "upc": "194622265852",
+        "isbn": "194622265852",
+        "ean13": "194622265852",
+        "shopify_inventory_item_id": "42050811887660"
+      },
+      "extended_attributes": [
+        {
+          "name": "scanned",
+          "value": "false"
+        },
+        {
+          "name": "product_created_at",
+          "value": "2022-01-13T11:26:35-05:00"
+        },
+        {
+          "name": "variant_created_at",
+          "value": "2022-01-13T11:26:36-05:00"
+        },
+        {
+          "name": "product_updated_at",
+          "value": "2023-03-09T19:39:11-05:00"
+        },
+        {
+          "name": "variant_updated_at",
+          "value": "2023-03-09T19:39:11-05:00"
+        },
+        {
+          "name": "product_handle",
+          "value": "adirondack-blanket-indigo-batik-floral"
+        },
+        {
+          "name": "product_published_at",
+          "value": "2022-01-13T11:26:35-05:00"
+        },
+        {
+          "name": "product_published_scope",
+          "value": "global"
+        },
+        {
+          "name": "fulfillment_service",
+          "value": "manual"
+        },
+        {
+          "name": "inventory_item_id",
+          "value": "42050811887660"
+        },
+        {
+          "name": "inventory_management",
+          "value": "shopify"
+        },
+        {
+          "name": "inventory_policy",
+          "value": "deny"
+        },
+        {
+          "name": "shopify_variant_id",
+          "value": "39942358958124"
+        }
+      ],
+      "product_id": "HAC0001-IBF-OS",
+      "tax_lines": [
+        {
+          "amount": 25.6,
+          "rate": 0.2,
+          "name": "FALLBACK - FIXED RATE",
+          "country_code": "US"
+        }
+      ]
+    }
+  ],
+  "tax_exempt": false,
+  "tax_method": "vat_excluded",
+  "customer": {
+    "id": "fc9e0c38-4fab-4de9-bb70-82de28cec1d9",
+    "name": "Kim Callaway",
+    "email": "kim.callaway@changecx.com"
+  },
+  "totals": {
+    "gross": 153.6,
+    "net": 128.0,
+    "tax": 25.6,
+    "total": 177.6,
+    "discount": 0.0,
+    "shipping": 24.0
+  },
+  "shipments": [
+    {
+      "id": "2d30f171-0073-4809-90f5-4ef5bcad0cc5",
+      "price": {
+        "gross": 24.0,
+        "net": 20.0,
+        "tax": 4.0,
+        "discount": 0.0
+      }
+    }
+  ]
+}

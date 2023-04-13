@@ -1,0 +1,122 @@
+{
+  "id": "FB000007110",
+  "origin": "newstore",
+  "origin_id": "0f1be5fd-b635-4fbb-ad1c-36b911bf4717",
+  "channel_type": "store",
+  "placed_at": "2023-04-07T15:26:16.833148",
+  "status": "closed",
+  "currency": "USD",
+  "fulfillment_type": "N/A",
+  "items": [
+    {
+      "id": "660c791d-cf47-4aff-8b98-4777ba1782c0",
+      "origin_id": "660c791d-cf47-4aff-8b98-4777ba1782c0",
+      "status": "cancelled",
+      "price": {
+        "gross": 153.6,
+        "net": 128.0,
+        "tax": 25.6,
+        "discount": 0.0
+      },
+      "product_attributes": {
+        "name": "ADIRONDACK BLANKET - GLACIER SKY"
+      },
+      "external_identifier": {
+        "sku": "HAC0001-GCS-OS",
+        "upc": "194622269041",
+        "isbn": "194622269041",
+        "ean13": "194622269041",
+        "shopify_inventory_item_id": "42045058482220"
+      },
+      "extended_attributes": [
+        {
+          "name": "scanned",
+          "value": "false"
+        },
+        {
+          "name": "product_created_at",
+          "value": "2022-01-12T01:00:18-05:00"
+        },
+        {
+          "name": "variant_created_at",
+          "value": "2022-01-12T01:00:18-05:00"
+        },
+        {
+          "name": "product_updated_at",
+          "value": "2023-02-28T03:10:35-05:00"
+        },
+        {
+          "name": "variant_updated_at",
+          "value": "2023-02-28T03:10:35-05:00"
+        },
+        {
+          "name": "product_handle",
+          "value": "adirondack-blanket-glacier-sky-2"
+        },
+        {
+          "name": "product_published_at",
+          "value": "2022-01-12T01:00:18-05:00"
+        },
+        {
+          "name": "product_published_scope",
+          "value": "global"
+        },
+        {
+          "name": "fulfillment_service",
+          "value": "manual"
+        },
+        {
+          "name": "inventory_item_id",
+          "value": "42045058482220"
+        },
+        {
+          "name": "inventory_management",
+          "value": "shopify"
+        },
+        {
+          "name": "inventory_policy",
+          "value": "deny"
+        },
+        {
+          "name": "shopify_variant_id",
+          "value": "39936662601772"
+        }
+      ],
+      "product_id": "HAC0001-GCS-OS",
+      "tax_lines": [
+        {
+          "amount": 25.6,
+          "rate": 0.2,
+          "name": "FALLBACK - FIXED RATE",
+          "country_code": "US"
+        }
+      ]
+    }
+  ],
+  "tax_exempt": false,
+  "tax_method": "vat_excluded",
+  "customer": {
+    "id": "fc9e0c38-4fab-4de9-bb70-82de28cec1d9",
+    "name": "Kim Callaway",
+    "email": "kim.callaway@changecx.com"
+  },
+  "totals": {
+    "gross": 153.6,
+    "net": 128.0,
+    "tax": 25.6,
+    "total": 165.6,
+    "discount": 0.0,
+    "shipping": 12.0
+  },
+  "shipments": [
+    {
+      "id": "803cfc79-493a-4705-b52f-14ee6fc4de41",
+      "price": {
+        "gross": 12.0,
+        "net": 10.0,
+        "tax": 2.0,
+        "discount": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "FB000007179",
+  "origin": "newstore",
+  "origin_id": "87f85dd7-5f40-4972-9fbd-1f2ed2f3b199",
+  "channel_type": "store",
+  "placed_at": "2023-04-07T18:08:45.669095",
+  "status": "open",
+  "currency": "USD",
+  "fulfillment_type": "N/A",
+  "items": [
+    {
+      "id": "edb4f9b6-579a-4066-96cc-f9c4acfaff32",
+      "origin_id": "edb4f9b6-579a-4066-96cc-f9c4acfaff32",
+      "status": "in_fulfillment",
+      "price": {
+        "gross": 201.6,
+        "net": 168.0,
+        "tax": 33.6,
+        "discount": 0.0
+      },
+      "product_attributes": {
+        "name": "RECYCLED SHERPA BLANKET - PACIFIC MORNING STAR"
+      },
+      "external_identifier": {
+        "sku": "HAC0081-PMO-OS",
+        "upc": "194622115935",
+        "isbn": "194622115935",
+        "ean13": "194622115935",
+        "shopify_inventory_item_id": "42043910946860"
+      },
+      "extended_attributes": [
+        {
+          "name": "scanned",
+          "value": "false"
+        },
+        {
+          "name": "product_created_at",
+          "value": "2022-01-11T19:43:47-05:00"
+        },
+        {
+          "name": "variant_created_at",
+          "value": "2022-01-11T19:43:47-05:00"
+        },
+        {
+          "name": "product_updated_at",
+          "value": "2023-02-28T03:10:33-05:00"
+        },
+        {
+          "name": "variant_updated_at",
+          "value": "2023-02-28T03:10:33-05:00"
+        },
+        {
+          "name": "product_handle",
+          "value": "recycled-sherpa-blanket-pacific-morning-star-1"
+        },
+        {
+          "name": "product_published_at",
+          "value": "2022-01-11T19:43:47-05:00"
+        },
+        {
+          "name": "product_published_scope",
+          "value": "global"
+        },
+        {
+          "name": "fulfillment_service",
+          "value": "manual"
+        },
+        {
+          "name": "inventory_item_id",
+          "value": "42043910946860"
+        },
+        {
+          "name": "inventory_management",
+          "value": "shopify"
+        },
+        {
+          "name": "inventory_policy",
+          "value": "deny"
+        },
+        {
+          "name": "shopify_variant_id",
+          "value": "39935522308140"
+        }
+      ],
+      "product_id": "HAC0081-PMO-OS",
+      "tax_lines": [
+        {
+          "amount": 33.6,
+          "rate": 0.2,
+          "name": "FALLBACK - FIXED RATE",
+          "country_code": "US"
+        }
+      ]
+    },
+    {
+      "id": "6607f563-07b3-4802-a3c8-e73ddfd3c2c6",
+      "origin_id": "6607f563-07b3-4802-a3c8-e73ddfd3c2c6",
+      "status": "on_hold",
+      "price": {
+        "gross": 153.6,
+        "net": 128.0,
+        "tax": 25.6,
+        "discount": 0.0
+      },
+      "product_attributes": {
+        "name": "ADIRONDACK BLANKET - NIGHT SKY"
+      },
+      "external_identifier": {
+        "sku": "HAC0001-NSY-OS",
+        "upc": "194622173669",
+        "isbn": "194622173669",
+        "ean13": "194622173669",
+        "shopify_inventory_item_id": "41434680983596"
+      },
+      "extended_attributes": [
+        {
+          "name": "scanned",
+          "value": "false"
+        },
+        {
+          "name": "tags",
+          "value": "age:Adult, Blankets, category:Blankets, CORE (ALL YEARS), gender:Unisex, Home Blankets, honeycomb-supplier-product, season:Core, spo-default, spo-disabled, style:Non-Sherpa, Unisex"
+        },
+        {
+          "name": "product_created_at",
+          "value": "2021-04-08T15:46:30-04:00"
+        },
+        {
+          "name": "variant_created_at",
+          "value": "2021-04-19T12:15:58-04:00"
+        },
+        {
+          "name": "product_updated_at",
+          "value": "2023-02-14T03:11:40-05:00"
+        },
+        {
+          "name": "variant_updated_at",
+          "value": "2023-02-14T03:11:40-05:00"
+        },
+        {
+          "name": "product_handle",
+          "value": "adirondack-blanket-night-sky"
+        },
+        {
+          "name": "product_published_at",
+          "value": "2021-07-14T12:21:48-04:00"
+        },
+        {
+          "name": "product_published_scope",
+          "value": "global"
+        },
+        {
+          "name": "fulfillment_service",
+          "value": "manual"
+        },
+        {
+          "name": "inventory_item_id",
+          "value": "41434680983596"
+        },
+        {
+          "name": "inventory_management",
+          "value": "shopify"
+        },
+        {
+          "name": "inventory_policy",
+          "value": "deny"
+        },
+        {
+          "name": "shopify_variant_id",
+          "value": "39335428292652"
+        }
+      ],
+      "product_id": "HAC0001-NSY-OS",
+      "tax_lines": [
+        {
+          "amount": 25.6,
+          "rate": 0.2,
+          "name": "FALLBACK - FIXED RATE",
+          "country_code": "US"
+        }
+      ]
+    }
+  ],
+  "tax_exempt": false,
+  "tax_method": "vat_excluded",
+  "customer": {
+    "id": "fc9e0c38-4fab-4de9-bb70-82de28cec1d9",
+    "name": "Kim Callaway",
+    "email": "kim.callaway@changecx.com"
+  },
+  "totals": {
+    "gross": 355.2,
+    "net": 296.0,
+    "tax": 59.2,
+    "total": 369.6,
+    "discount": 0.0,
+    "shipping": 14.4
+  },
+  "shipments": [
+    {
+      "id": "768dc839-961c-46cd-8d36-0af96373b890",
+      "price": {
+        "gross": 14.4,
+        "net": 12.0,
+        "tax": 2.4,
+        "discount": 0.0
+      }
+    }
+  ]
+}
