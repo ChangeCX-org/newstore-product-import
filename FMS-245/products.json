@@ -1,0 +1,210 @@
+{
+  "head": {
+    "locale": "en-US",
+    "shop": "storefront-catalog-en",
+    "is_master": true,
+    "searchable_attributes": [
+      {
+        "name": "sku",
+        "path": "$.external_identifiers[?(@.type == 'sku')].value",
+        "weight": 1
+      },
+      {
+        "name": "product_id",
+        "path": "$.product_id",
+        "weight": 2
+      }
+    ],
+    "filterable_attributes": [
+      {
+        "name": "Color",
+        "path": "$.variation_color_value"
+      },
+      {
+        "name": "Size",
+        "path": "$.variation_size_value"
+      }
+    ]
+  },
+  "items": [
+    {
+      "brand": "Faherty",
+      "is_searchable": false,
+      "is_published": false,
+      "show_in_listing": false,
+      "online_to": "2023-04-01T07:00:00Z",
+      "product_id": "WMAH2211-WWT-XLXXL",
+      "variant_group_id": "6820375298117",
+      "external_identifiers": [
+        {
+          "type": "sku",
+          "value": "MAH2211-WWT-XLXXL"
+        },
+        {
+          "type": "shopify_inventory_item_id",
+          "value": "42414025834565"
+        },
+        {
+          "type": "upc",
+          "value": "194622372598"
+        },
+        {
+          "type": "isbn",
+          "value": "194622372598"
+        },
+        {
+          "type": "ean13",
+          "value": "194622372598"
+        }
+      ],
+      "title": "Whitewater Hp Flc Robe - Whitewater",
+      "caption": "Whitewater Hp Flc Robe - Whitewater",
+      "description": "Turn off the water and wrap yourself up in our hotel-worthy robe. Made from a plush high pile fleece and our bestselling Whitewater fabric, its softness is the best way to start and end a long day.   \n\nFit: Relaxed fit \nDetail: - Self-tie belt at waist\n- Two front pockets \nMaterial: 74% Cotton, 26% Polyester \nModel: is wearing size is wearing size  \nCare: Turn inside out. Machine wash cold with like colors. Gentle cycle. Do not bleach.Tumble dry low. Remove promptly. Cool iron when needed.\nMAH2211-WWT\n",
+      "shipping_weight_unit": "lb",
+      "shipping_weight_value": 1.0,
+      "shipping_dimension_length": 0.0,
+      "shipping_dimension_width": 0.0,
+      "shipping_dimension_height": 0.0,
+      "shipping_dimension_unit": "cm",
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/db0zftggw/image/upload/v1631554666/p/faherty/6e92aa66747d37bb56c232af5eba9c9c.png",
+          "is_main": true
+        }
+      ],
+      "variation_color_value": "Whitewater",
+      "variation_size_value": "XLXXL",
+      "material": "",
+      "google_category": "none",
+      "categories": [
+        {
+          "path": "All"
+        },
+        {
+          "is_main": true,
+          "path": "All > Men's"
+        },
+        {
+          "path": "All > All"
+        },
+        {
+          "path": "All > Men's Accessories"
+        },
+        {
+          "path": "All > Men's New Arrivals"
+        },
+        {
+          "path": "All > New Jersey Tax - All Product Ex. Blankets"
+        },
+        {
+          "path": "All > All Accessories"
+        },
+        {
+          "path": "All > Faherty Brand Merchandise"
+        },
+        {
+          "path": "All > All products"
+        },
+        {
+          "path": "All > Live Products - BFCM"
+        },
+        {
+          "path": "All > Accessories"
+        },
+        {
+          "path": "All > All Products (exclude GC and 3rd Party)"
+        },
+        {
+          "path": "All > Men's Whitewater Collection"
+        },
+        {
+          "path": "All > Men's Influencer Favorites"
+        },
+        {
+          "path": "All > Resort Shop"
+        },
+        {
+          "path": "All > Whitewater"
+        },
+        {
+          "path": "All > Accessories New Arrivals"
+        },
+        {
+          "path": "All > Men's Red, White & Blue Collection"
+        },
+        {
+          "path": "All > Women's Red, White & Blue Collection"
+        },
+        {
+          "path": "All > New Arrivals"
+        },
+        {
+          "path": "All > Sleepwear"
+        }
+      ],
+      "extended_attributes": [
+        {
+          "name": "fulfillment_service",
+          "value": "manual"
+        },
+        {
+          "name": "inventory_item_id",
+          "value": "42414025834565"
+        },
+        {
+          "name": "inventory_management",
+          "value": "shopify"
+        },
+        {
+          "name": "inventory_policy",
+          "value": "deny"
+        },
+        {
+          "name": "product_created_at",
+          "value": "2022-09-16T16:13:58-04:00"
+        },
+        {
+          "name": "product_handle",
+          "value": "whitewater-hp-flc-robe-whitewater"
+        },
+        {
+          "name": "product_published_scope",
+          "value": "web"
+        },
+        {
+          "name": "product_updated_at",
+          "value": "2022-11-08T17:29:51-05:00"
+        },
+        {
+          "name": "shopify_variant_id",
+          "value": "40318327717957"
+        },
+        {
+          "name": "tags",
+          "value": "accessories, age:Adult, category:Accessories, color-family:Light Blue, gender:Men, H/22, season:Holiday 2022, status:New, style:Robes"
+        },
+        {
+          "name": "variant_created_at",
+          "value": "2022-09-16T16:13:58-04:00"
+        },
+        {
+          "name": "variant_updated_at",
+          "value": "2022-09-16T16:14:10-04:00"
+        }
+      ],
+      "keywords": [
+        "accessories",
+        "age:Adult",
+        "category:Accessories",
+        "color-family:Light Blue",
+        "gender:Men",
+        "H/22",
+        "season:Holiday 2022",
+        "status:New",
+        "style:Robes"
+      ],
+      "tax_class_id": "",
+      "manufacturer": ""
+    }
+  ]
+}
